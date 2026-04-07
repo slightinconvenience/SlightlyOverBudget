@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# VS Code user settings (machine-specific)
+.vscode/
+
+# dotnet tools
+.dotnet/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# User-specific rider/VS files
+*.user
+.vs/
